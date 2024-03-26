@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lib": "file:../lib/lib-0.0.1.tgz"
+  }
+}
